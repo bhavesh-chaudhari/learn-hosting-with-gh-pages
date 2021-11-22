@@ -4,10 +4,10 @@
 </p>
 
 ## :bookmark: Index - 
-1. [`Introduction to Github Pages`](#introduction-to-github-pages)
-2. [`Hosting a website with Github Pages`](#introduction-to-github-pages)
-3. [`Making Changes to the hosted website`](#making-changes-to-the-hosted-website)
-4. [`Some Common Mistakes, Concerns and Troubleshooting`](#some-common-mistakes,-concerns-and-troubleshooting)
+1. [`Introduction to Github Pages`](#introduction-to-github-pages--)
+2. [`Hosting a website with Github Pages`](#introduction-to-github-pages--)
+3. [`Making Changes to the hosted website`](#making-changes-to-the-hosted-website--)
+4. [`Some Common Mistakes, Concerns and Troubleshooting`](#some-common-mistakes,-concerns-and-troubleshooting--)
 
 ## :mag: Introduction to Github Pages
 
